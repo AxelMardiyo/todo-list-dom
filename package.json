@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-dom",
+  "version": "1.0.0",
+  "description": "Selamat datang di repositori **To-Do List** ini! 🚀",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
